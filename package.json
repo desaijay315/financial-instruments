@@ -12,7 +12,7 @@
     "test": "jest",
     "test:coverage": "jest --coverage",
     "ci:build": "cross-env NODE_ENV=deployment webpack --mode production",
-    "serve": "serve -s dist"
+    "serve": "serve -l 3000 -s dist"
   },
   "keywords": [],
   "author": "",
