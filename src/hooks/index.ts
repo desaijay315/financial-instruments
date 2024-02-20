@@ -1,2 +1,2 @@
-export * from './sort';
-export * from './useFetchData';
+export * from './sort'
+export * from './useFetchData'

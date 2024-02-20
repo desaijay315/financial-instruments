@@ -1,14 +1,23 @@
-import { SET_DATA, TOGGLE_SORT } from '../../utils/constants';
-import { TableItem } from '../../components/Table/types';
-import { ColumnName } from '../../common/types';
+import { SET_DATA, TOGGLE_SORT } from '../../utils/constants'
+import { TableItem } from '../../components/Table/types'
+import { ColumnName } from '../../common/types'
 
+type ToggleSortReturnType = {
+    type: string
+    columnName: ColumnName
+}
 
-export const setData = (payload: TableItem[]) => ({
-  type: SET_DATA,
-  payload,
-});
+type SetDataReturnType = {
+    type: string
+    payload: TableItem[]
+}
 
-export const toggleSort = (columnName: ColumnName ) => ({
-  type: TOGGLE_SORT,
-  columnName,
-});
+export const setData = (payload: TableItem[]): SetDataReturnType => ({
+    type: SET_DATA,
+    payload,
+})
+
+export const toggleSort = (columnName: ColumnName): ToggleSortReturnType => ({
+    type: TOGGLE_SORT,
+    columnName,
+})

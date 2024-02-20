@@ -1,7 +1,5 @@
-import {TableContainer} from "./TableContainer";
+import { TableContainer } from './TableContainer'
 
-const Table: React.FC<{}> = () => (
-  <TableContainer />
-);
+const Table: React.FC<{}> = () => <TableContainer />
 
-export { Table };
+export { Table }

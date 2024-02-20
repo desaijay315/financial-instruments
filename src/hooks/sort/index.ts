@@ -1,2 +1,2 @@
-export * from './useSort';
-export * from './types';
+export * from './useSort'
+export * from './types'
