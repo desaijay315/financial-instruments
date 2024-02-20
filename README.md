@@ -1,4 +1,4 @@
-## Financial Instruments Data
+# Financial Instruments Data
 
 ## About the Project
 
