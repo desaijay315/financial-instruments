@@ -17,6 +17,20 @@ This project features a custom-built data table designed to showcase financial i
 This project is deployed on AWS Cloud using Github Actions.
 You can check the demo [here](https://d2d3cbc33jslad.cloudfront.net/)
 
+## Application Screenshots
+
+-   Sort By Asset Class
+    [![Sort by Asset Class](https://github.com/desaijay315/financial-instruments/blob/main/screenshots/sort_by_assetclass.png?raw=true)](#features)
+
+-   Sort By Price
+    [![Sort by Price](https://github.com/desaijay315/financial-instruments/blob/main/screenshots/sort_by_price.png?raw=true)](#features)
+
+-   Sort By Ticker
+    [![Sort by Ticker](https://github.com/desaijay315/financial-instruments/blob/main/screenshots/sort_by_ticker.png?raw=true)](#features)
+
+-   Code Coverage
+    [![Code Coverage](https://github.com/desaijay315/financial-instruments/blob/main/screenshots/test_coverage_from_github_ci-cd.png?raw=true)](#features)
+
 ## Prerequisites
 
 ### Install Node JS
