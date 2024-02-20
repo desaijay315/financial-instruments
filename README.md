@@ -1,9 +1,9 @@
 ---
-title: Financial Instruments Data
-description: Custom DataTable representing financial instrument data sorting
-author: Jay Desai
-created: 2024 Feb 19
-modified: 2024 Feb 21
+Title: Financial Instruments Data
+Description: Custom DataTable representing financial instrument data sorting
+Author: Jay Desai
+Created: 2024 Feb 19
+Modified: 2024 Feb 21
 ---
 
 # Financial Instruments Data
