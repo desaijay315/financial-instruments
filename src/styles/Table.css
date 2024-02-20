@@ -1,0 +1,46 @@
+.table {
+  border: 1px solid #ddd;
+  width: 100%;
+  background-color: #f9f9f9;
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.table th, .table td {
+  padding: 8px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.thead-dark th {
+  background-color: #343a40;
+  color: #fff;
+}
+
+
+.equities {
+  background-color: blue;
+  color: white;
+}
+
+.credit {
+  background-color: green;
+  color: white;
+}
+
+.macro {
+  background-color: white;
+  color: black;
+}
+
+.positivePrice {
+  color: black;
+}
+
+.negativePrice {
+  color: red;
+}
