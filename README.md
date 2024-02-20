@@ -1,19 +1,22 @@
-# Financial Instruments Data
+## Financial Instruments Data
 
 ## About the Project
+
 This project features a custom-built data table designed to showcase financial instruments data, developed with React.
 
-Live Application URL
-----------
-This project is deployed with Github Actions, AWS S3 and CloudFront. 
+## Live Application URL
+
+This project is deployed with Github Actions, AWS S3 and CloudFront.
 You can check the demo [here](https://d2d3cbc33jslad.cloudfront.net/)
 
 ## Prerequisites
 
 ### Install Node JS
+
 Refer to https://nodejs.org/en/ to install nodejs (v >= 18)
 
 ### Install Yarn
+
 Refer to https://yarnpkg.com/ to install yarn (v = 1.22.21)
 
 ## Cloning and Running the Application in local
@@ -54,11 +57,12 @@ yarn serve
 
 Visit http://localhost:3000 in your browser to view the project.
 
+## Technologies Used
 
-Technologies Used
------------------
-- React 17
-- Webpack
-- Babel
-- TypeScript
-- Jest
+-   React 17
+-   Webpack
+-   Babel
+-   TypeScript
+-   Jest
+-   ESLint
+-   Prettier
