@@ -1,3 +1,11 @@
+---
+title: Financial Instruments Data
+description: Custom DataTable representing financial instrument data sorting
+author: Jay Desai
+created: 2024 Feb 19
+modified: 2024 Feb 21
+---
+
 # Financial Instruments Data
 
 ## About the Project
@@ -6,7 +14,7 @@ This project features a custom-built data table designed to showcase financial i
 
 ## Live Application URL
 
-This project is deployed with Github Actions, AWS S3 and CloudFront.
+This project is deployed on AWS Cloud using Github Actions.
 You can check the demo [here](https://d2d3cbc33jslad.cloudfront.net/)
 
 ## Prerequisites
