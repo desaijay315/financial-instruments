@@ -1,6 +1,6 @@
 ---
 Title: Financial Instruments Data
-Description: Custom DataTable representing financial instrument data sorting
+Description: React Project showcasing Custom DataTable which represents financial instrument data sorting
 Author: Jay Desai
 Created: 2024 Feb 19
 Modified: 2024 Feb 21
