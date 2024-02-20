@@ -38,13 +38,15 @@ yarn install
 yarn dev
 ```
 
-4. Create the build
+### Simulate Production Environment locally
+
+1. Create the build
 
 ```sh
 yarn run build
 ```
 
-5. To start the local server, use
+2. To start the local server, use
 
 ```sh
 yarn serve
